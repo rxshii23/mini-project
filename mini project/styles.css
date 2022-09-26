@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Volkhov', serif;
+
+    box-sizing: border-box;
+    /* background-color: #5c6c90; */
+    min-height: 100vh;
+    color: black;
+    /* background-image: url(/2.jpeg);
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(25px); */
+    /* color: rgb(0, 0, 0); */
+
+}
+
+.heading1 {
+    /* padding-left: 35px;
+    padding-top: 30px; */
+}
+
+.title {
+    display: block;
+    color: white;
+    font-size: 45px;
+    padding: 14px 16px;
+    
+}
+
+
+h1 {
+    /* color: aliceblue; */
+    font-size: 50px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: rgb(49, 48, 48); */
+
+    font-size: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.75s;
+}
+
+li a:hover {
+    color: rgb(177, 144, 246);
+    background-color: rgb(255, 255, 255);
+}
+
+#abt {
+    float: right;
+}
+
+.generate {
+    padding-top: 55px;
+    padding-left: 20px;
+    font-size: 55px;
+    /* background: linear-gradient(to left bottom, rgba(30, 30, 206, 0.5), rgb(255, 255, 255)); */
+
+}
+
+.big {
+    padding-top: 30px;
+}
+
+header {
+    background: linear-gradient(to left bottom, rgba(30, 30, 206, 0.5), rgb(255, 255, 255));
+}
+
+
